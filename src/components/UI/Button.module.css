@@ -1,0 +1,18 @@
+.Button {
+  background-color: green;
+  border: 10px;
+  color: rgb(30, 2, 2);
+  padding: 20px 50px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
+
+.Button2 {
+  margin-left: 20px;
+  height: 50px;
+  cursor: pointer;
+  background-color: whitesmoke;
+  font-size: 1.5rem;
+}
